@@ -2,4 +2,4 @@
 
 ```Live Demo```
 
-Codepen [https://codepen.io/gnwncpta/pen/yLgvbYr] (https://codepen.io/gnwncpta/pen/yLgvbYr)
+Codepen [Live Demo](https://codepen.io/gnwncpta/pen/yLgvbYr)
